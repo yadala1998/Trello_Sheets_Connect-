@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trellosheetsconn-1563847536862",
+  "private_key_id": "92516d3a10f33b5c618ec7b254f001541ec649fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGsmIf5qsJ/8WV\nOB34CpHeG5cJpKR1P02R2BKhQ+EIf8RZcQ21TRZjLgYp4vtGiTOuHwWss7fyAICF\n3xs3C99K4hBFl3ftiuXBAXtmXkaWeYNaqn7HjYMe5sKf5ZyOldShO8Lj03mRnahu\nKrrHoXvr/NGdcxEFID1n8q0fCU8A3Op8wg+Sd5z6D4Dc+wkVTRwLjiGtTAGutdN0\npOcjhASOGnCtAqSi4NAyF+sBf3/pJ+r2wIQGjVtQaTuDsbv5k7impRoaqX0Zg6Ge\ngykEexavL4EjdbpDqnYYbUCYAfJ1HmCvlkWcFiPufvtM0u4C/hIlklLwT9C/sRom\nEdIja8JVAgMBAAECggEABYjNTJkH6gFipzWm8AsrUzy3x/uNJ/yZZoSNWW7Zug1y\ntuwy7dWRRcg497pHo78JcJ2S4FFyUnndGpRVugKAEyIrsCSKfJ1UYGC5VTBTn5Oi\nT5GecmR69Q7Q99PC3XAi8OUIYYC5AdkIWEJaJFp7+pQtmDaKRxuzo01JHuIvxycu\n7sE3A88GmJ2gNP9wC4nKcYC1aIJigVbEM5TScUZ2HhbhqtHcNrVkrLBkAEABrpPI\npOB+Nq7i3yXAwIOJN4Hi3+cgtvMSnZY7P3Z+S7tCQAn5255yBHuULww8pcjKO/88\nty6I3AfnnGqXzETTlFmzhf2zGnhTh/PQeTRGpWmzyQKBgQDzvG9hQDS8lvqUK4LI\ncwSLmmFG7qc28f+RInAkcayfkHbvcGozBEJRQDZ4AHojN6TKCWhnk+MfmeoFL97h\nQ45uM9nuc0S2m584N+pM7NwR7u0RmPl7nmZy2rUuuKdN5XqxrqR1U+pbL9REQph5\n+8ib8kVFXBK88yYKLEfcXRHgVwKBgQDQscwfNkmXZErxNrVfHBNlOgoG7h1Bx8r/\nwg4XOfLjAqCdKqF5g3es7q+ggzQhylmGsIU8aw7UFw4xKUUrJKgJfH1uMorm2uS8\nRBgSeWlecYhUjSCePWx4CLqjCfxwM29VeJ2Avvz+bp7nmk79YSTkEoNu7DCJHyMG\nIt/mEkXXMwKBgQCToMvZnLkUjWIDAwO5A6l6ISzQeNbBOfyw3KoN+Og00ZyoVG+O\nrQK6Eemr76YK1LY0RVR+gB2uU1xifedCi9emOjPC8QBqloHu3DdHFqQJHK1s3jom\nPQASixP405FKZjdVjdFA2230g1jPa4LNR8rvYePBKg6TcbbVrJJuD9U3CwKBgDjU\nEZd2OvfksZuZoC30ATwRX+WfNYxSEW8vspKUjxVOA9qIX0wthosqu9xjnfCNn29T\n5hQbuv/5/z1X1aP36WIb6jP1w2k1tg+mIz/0m8LB+7O6cmVkqILPLbNz5q/O8cQ+\ngfUrDM1j5hV/KX9J0rfgarXrzxOnzOvA12NZGneNAoGBAKQFkkS2mEfgDbhGwrNe\nC0BF5vNLq+jOJwSSDcdaiHKB4MGxqFKbfknIQezfb7n/8la5HcdtKjgdA8iPKPvF\nG1SLujkWWdr8h9UHVwdm9X59G67FGylVmFSnt+yCrRDdlGzakbU3feqkb2wmt4Hx\n5atlQ7c/cdiUFodWCkQLiHU0\n-----END PRIVATE KEY-----\n",
+  "client_email": "trellosheetsconnect@trellosheetsconn-1563847536862.iam.gserviceaccount.com",
+  "client_id": "116778216701557750466",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trellosheetsconnect%40trellosheetsconn-1563847536862.iam.gserviceaccount.com"
+}
